@@ -14,5 +14,5 @@
   <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="1135de76556267ba844044fb515dbbdf23f87f3a"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="510c8b0fd79257a527bf45855b1fe6b4f0c49510"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="cb8647c08959abb1d6b7c2b3a34b4b415f66d7ee"/>
-  <project name="henryslave/sl77-yocto-layers" path="layers/meta-st/meta-sl77-dk2" remote="github" revision="fa8322b81ea854b1dc718889c34b3361781ee1f8"/>
+  <project name="henryslave/sl77-yocto-layers" path="layers/meta-st/meta-sl77-dk2" remote="github" revision="415cc1045d07f40a930e21a279c220ebe2ff10bd"/>
 </manifest>
